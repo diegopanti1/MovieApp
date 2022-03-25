@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+    <!--Bottom Nav-->
+    <string name="movies">Peliculas</string>
+    <string name="map">Mapa</string>
+    <string name="pictures">Imágenes</string>
+    <string name="title_activity_sample">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_bottom">MainActivity</string>
+    <string name="title_activity_admin">MainActivity</string>
+
+    <string name="error_network">Conexión a internet no disponible.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="button_accept">Aceptar</string>
+    <string name="button_confirm">Confirmar</string>
+
+    <string name="notice">Aviso</string>
+    <string name="upload_successful">El archivo se ha subido correctamente</string>
+
+    <string name="loading">Cargando…</string>
+
+    <string name="start_location_updates">Obtener ubicaciones</string>
+    <string name="stop_location_updates">Detener</string>
+    <string name="pick_image">Selecciona una imagen</string>
+
+    <string name="point_format">Hora: %s \n\nUbicación: (%s,%s) </string>
+
+    <string name="location_point_title">Geolocalización</string>
+    <string name="location_point_body">Ubicación: (%s,%s)</string>
+</resources>
